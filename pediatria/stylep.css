@@ -1,0 +1,717 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: #001c5e;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #decc00;
+}
+
+pk{
+	opacity: 0.0;
+	cursor: default;
+}
+
+
+a{
+	text-decoration: none;
+	color: black;
+	cursor: default;
+}
+
+.quizprova a{
+	text-decoration: none;
+	color: #decc00;
+	cursor: pointer;
+}
+
+.quizprova a:hover{
+	color: #bd0d00;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+
+p {
+  font-family: "Merriweather", serif;
+  font-size: 25px;
+}
+
+p2 {
+  font-family: "Merriweather", serif;
+  font-size: 20px;
+}
+
+p3{
+  font-family: "Merriweather", serif;
+  font-size: 25px;
+  text-align: left;
+}
+
+.aula1 img{
+	width: 450px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: darkorange;
+}
+
+.aula1{
+	width: 1100px;
+	margin: auto;
+}
+
+.conteudo1aula1{
+	display: table;
+}
+
+.img1aula1{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 35px;
+	margin-left: 70px;
+}
+
+.texto1aula1{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+.conteudo2aula1{
+	display: table;
+}
+
+.img2aula1{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 20px;
+	margin-left: 0px;
+}
+
+.texto2aula1{
+	display: table-cell;
+	float: right;
+	width: 550px;
+	margin-top: 0px;
+	margin-left: 90px;
+}
+
+
+
+
+
+.conteudo3aula1{
+	display: table;
+}
+
+.img3aula1{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 20px;
+	margin-left: 70px;
+}
+
+.texto3aula1{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+.conteudo4aula1{
+	display: table;
+}argin-left: 70px;
+
+.texto4aula1{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+.conteudo5aula1{
+	display: table;
+}
+
+.img5aula1{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 65px;
+	margin-left: 70px;
+}
+
+.texto5aula1{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+.conteudo6aula1{
+	display: table;
+}
+
+.texto6aula1{
+	display: table-cell;
+	float: left;
+}
+
+
+
+
+.conteudo8aula1{
+	display: table;
+}
+
+.img8aula1{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 40px;
+	margin-left: 70px;
+}
+
+.texto8aula1{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+.aula2 img{
+	width: 450px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: darkorange;
+}
+
+.aula2{
+	width: 1100px;
+	margin: auto;
+}
+
+.conteudo1aula2{
+	display: table;
+}
+
+.img1aula2{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 35px;
+	margin-left: 70px;
+}
+
+.texto1aula2{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+.conteudo5aula2{
+	display: table;
+}
+
+.img5aula2{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 50px;
+	margin-left: 0px;
+}
+
+.texto5aula2{
+	display: table-cell;
+	float: right;
+	width: 500px;
+	margin-top: 0px;
+	margin-left: 70px;
+}
+
+
+
+
+
+.conteudo4aula2{
+	display: table;
+}
+
+.img4aula2{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 70px;
+	margin-left: 100px;
+}
+
+.texto4aula2{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+
+
+
+
+.conteudo6aula2{
+	display: table;
+}
+
+.img6aula2{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 100px;
+	margin-left: 0px;
+}
+
+.img6aula2 img{
+	width: 500px;
+}
+
+.texto6aula2{
+	display: table-cell;
+	float: right;
+	width: 500px;
+	margin-top: 0px;
+	margin-left: 70px;
+}
+
+
+
+
+
+
+.conteudo7aula2{
+	display: table;
+}
+
+.img7aula2{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 35px;
+	margin-left: 105px;
+}
+
+.img7aula2 img{
+	width: 350px;
+}
+
+.texto7aula2{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+
+.conteudo8aula2{
+	display: table;
+}
+
+.img8aula2{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 100px;
+	margin-left: 0px;
+}
+
+.texto8aula2{
+	display: table-cell;
+	float: right;
+	width: 500px;
+	margin-top: 0px;
+	margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+.aula4 img{
+	width: 450px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: darkorange;
+}
+
+.aula4{
+	width: 1100px;
+	margin: auto;
+}
+
+.conteudo1aula4{
+	display: table;
+}
+
+.img1aula4{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 130px;
+	margin-left: 100px;
+}
+
+.texto1aula4{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+.conteudo2aula4{
+	display: table;
+}
+
+.img2aula4{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 130px;
+	margin-left: 0px;
+}
+
+.texto2aula4{
+	display: table-cell;
+	float: right;
+	width: 500px;
+	margin-top: 0px;
+	margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+.conteudo3aula4{
+	display: table;
+}
+
+.img3aula4{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 85px;
+	margin-left: 100px;
+}
+
+.texto3aula4{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+.conteudo7aula4{
+	display: table;
+}
+
+.img7aula4{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 75px;
+	margin-left: 0px;
+}
+
+.texto7aula4{
+	display: table-cell;
+	float: right;
+	width: 500px;
+	margin-top: 0px;
+	margin-left: 70px;
+}
+
+
+
+
+
+
+
+
+
+.conteudo9aula4{
+	display: table;
+}
+
+.img9aula4{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 0px;
+	margin-left: 100px;
+}
+
+.texto9aula4{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aula5 img{
+	width: 450px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: darkorange;
+}
+
+.aula5{
+	width: 1100px;
+	margin: auto;
+}
+
+.conteudo1aula5{
+	display: table;
+}
+
+.img1aula5{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 130px;
+	margin-left: 100px;
+}
+
+.texto1aula5{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+.img2aula5{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 100px;
+	margin-left: 0px;
+}
+
+.img3aula5{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+
+
+
+
+
+.textoFaula5{
+	display: table-cell;
+	float: left;
+	width: 400px;
+}
+
+.textoF2aula5{
+	display: table-cell;
+	float: right;
+	position: relative;
+	display: flex;
+	align-items: center;
+	margin-top: 0px;
+	margin-left: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.aula6 img{
+	width: 450px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: darkorange;
+}
+
+.aula6{
+	width: 1100px;
+	margin: auto;
+}
+
+.conteudo1aula6{
+	display: table;
+}
+
+.img1aula6{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+
+.texto1aula6{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
+
+
+
+
+
+
+
+
+
+.img2aula6{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 45px;
+	margin-left: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+.aula3 img{
+	width: 450px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: darkorange;
+}
+
+.aula3{
+	width: 1100px;
+	margin: auto;
+}
+
+
+
+
+
+.conteudo1aula3{
+	display: table;
+}
+
+.img1aula3{
+	display: table-cell;
+	float: left;
+	display: flex;
+	align-items: center;
+	margin-top: 35px;
+	margin-left: 105px;
+}
+
+.img1aula3 img{
+	width: 350px;
+}
+
+.texto1aula3{
+	display: table-cell;
+	float: left;
+	width: 500px;
+}
