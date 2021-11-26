@@ -88,6 +88,26 @@ p3{
 
 
 
+
+
+
+.a2 a{
+	color: #decc00;
+	cursor: pointer;
+	position: relative;
+	float: center;
+}
+
+.a2 a:hover{
+	text-decoration: underline;
+}
+
+
+
+
+
+
+
 .conteudo2aula1{
 	display: table;
 }
